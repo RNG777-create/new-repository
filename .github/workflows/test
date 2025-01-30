@@ -1,2 +1,7 @@
 local a = true
 print(a)
+if a == true then
+	print("yes it works")
+else
+  print("no it's false")
+end
