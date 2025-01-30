@@ -1,1 +1,2 @@
-**hi**
+local a = true
+print(a)
